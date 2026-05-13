@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "afjnetworkbedrock.aternos.me
-",
+    "ip": "afjnetworkbedrock.aternos.me",
     "port": 62292,
     "version": "1.20.1",
     "try-creative": false
